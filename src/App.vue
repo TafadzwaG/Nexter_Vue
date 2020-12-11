@@ -1,28 +1,58 @@
 <template>
-  <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png" />
-    <HelloWorld msg="Welcome to Your Vue.js App" />
+  <div class="container">
+    <side-bar></side-bar>
+    <Header></Header>
+    <Realtores></Realtores>
+    <Features></Features>
+    <Story></Story>
+    <StoryContent></StoryContent>
+    <Homes></Homes>
+    <Gallery></Gallery>
+    <Footer></Footer>
   </div>
 </template>
 
 <script>
-import HelloWorld from "./components/HelloWorld.vue";
+import SideBar from "./components/SideBar.vue";
+import Header from "./components/Header.vue";
+import Footer from "./components/Footer.vue";
+import Features from "./components/Features.vue";
+import Gallery from "./components/Gallery.vue";
+import Homes from "./components/Homes.vue";
+import Realtores from "./components/Realtores.vue";
+import Story from "./components/Story.vue";
+import StoryContent from "./components/StoryContent.vue";
 
 export default {
   name: "App",
   components: {
-    HelloWorld
-  }
+    SideBar,
+    Header,
+    Footer,
+    Features,
+    Homes,
+    Gallery,
+    Realtores,
+    Story,
+    StoryContent,
+  },
 };
 </script>
 
-<style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
+<style lang="scss" scoped>
+.container {
+  display: grid;
+  grid-template-rows: 80vh min-content 40vw repeat(3, min-content);
+  grid-template-columns:
+    [sidebar-start] 8rem [sidebar-end full-start] minmax(6rem, 1fr) [center-start] repeat(
+      8,
+      [col-start] minmax(min-content, 14rem) [col-end]
+    )
+    [center-end] minmax(6rem, 1fr) [full-end];
+
+  & > * {
+    padding: 40px;
+    font-size: 3rem;
+  }
 }
 </style>
