@@ -40,6 +40,8 @@ export default {
 </script>
 
 <style lang="scss" scoped>
+@import url("https://fonts.googleapis.com/css2?family=Nunito:ital,wght@1,300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@1,300&family=Nunito:ital,wght@1,300&display=swap");
 .container {
   display: grid;
   grid-template-rows: 80vh min-content 40vw repeat(3, min-content);
@@ -49,10 +51,6 @@ export default {
       [col-start] minmax(min-content, 14rem) [col-end]
     )
     [center-end] minmax(6rem, 1fr) [full-end];
-
-  & > * {
-    padding: 40px;
-    font-size: 3rem;
-  }
+  font-family: $font-display;
 }
 </style>

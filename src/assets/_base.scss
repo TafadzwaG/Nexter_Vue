@@ -1,6 +1,5 @@
 //Fonts inport
-@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@1,300&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@1,300&family=Nunito:ital,wght@1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&family=Nunito:wght@300&display=swap');
 
 $color-primary: #c69963;
 $color-primary-dark: #828451;
@@ -37,7 +36,29 @@ body {
     line-height: 1.6;
 }
 
-.container{
-    display: grid;
-    grid-template-rows: 80vh ;
+
+
+//Inheritance in scss
+%heading {
+    font-family:$font-display;
+    font-weight: 400;
 }
+
+.heading-1{
+    @extend %heading
+}
+.heading-2{
+    @extend %heading
+}
+.heading-3{
+    @extend %heading
+}
+.heading-4{
+    @extend %heading;
+    font-size: 1.9rem;
+
+    &--light { color: $color-grey-light-1;}
+    &--dark { color: $color-grey-dark-1;}
+    
+}
+
