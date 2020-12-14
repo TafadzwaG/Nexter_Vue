@@ -1,7 +1,7 @@
 <template>
   <div class="story__pictures">
-    <img src="img/car.jpg" alt="Car" class="story__img--1" />
-    <img src="img/asus.jpg" alt="Asus" class="story__img--2" />
+    <img src="img/h15.jpg" alt="Car" class="story__img--1" />
+    <img src="img/h16.jpg" alt="Asus" class="story__img--2" />
   </div>
 </template>
 <script>
@@ -21,7 +21,7 @@ export default {};
         rgba($color-primary, 0.5),
         rgba($color-primary, 0.5)
       ),
-      url("~@/assets/1.jpg");
+      url("~@/assets/h12.jpg");
     // background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;

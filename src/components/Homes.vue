@@ -8,25 +8,25 @@
       <h5 class="home__name">Beautiful Family House</h5>
       <div class="home__location">
         <svg class="home__like">
-          <use xlink:href="icons/sprite2.svg#icon-location-pin"></use>
+          <use xlink:href="icons/sprite.svg#icon-location-pin"></use>
         </svg>
         <p>Harare</p>
       </div>
       <div class="home__rooms">
         <svg class="home__like">
-          <use xlink:href="icons/sprite2.svg#icon-user"></use>
+          <use xlink:href="icons/sprite.svg#icon-user"></use>
         </svg>
         <p>5 Rooms</p>
       </div>
       <div class="home__area">
         <svg class="home__like">
-          <use xlink:href="icons/sprite2.svg#icon-home"></use>
+          <use xlink:href="icons/sprite.svg#icon-home1"></use>
         </svg>
         <p>234 m<sup>2</sup></p>
       </div>
       <div class="home__price">
         <svg class="home__like">
-          <use xlink:href="icons/sprite2.svg#icon-key"></use>
+          <use xlink:href="icons/sprite.svg#icon-key"></use>
         </svg>
         <p>$1,200,000</p>
       </div>
@@ -36,30 +36,30 @@
     <div class="home">
       <img src="img/h2.jpg" alt="Home" class="home__img" />
       <svg class="home__like">
-        <use xlink:href="icons/sprite2.svg#icon-heart"></use>
+        <use xlink:href="icons/sprite.svg#icon-heart"></use>
       </svg>
       <h5 class="home__name">Family House</h5>
       <div class="home__location">
         <svg class="home__like">
-          <use xlink:href="icons/sprite2.svg#icon-location-pin"></use>
+          <use xlink:href="icons/sprite.svg#icon-location-pin"></use>
         </svg>
         <p>Mutare</p>
       </div>
       <div class="home__rooms">
         <svg class="home__like">
-          <use xlink:href="icons/sprite2.svg#icon-user"></use>
+          <use xlink:href="icons/sprite.svg#icon-user"></use>
         </svg>
         <p>7 Rooms</p>
       </div>
       <div class="home__area">
         <svg class="home__like">
-          <use xlink:href="icons/sprite2.svg#icon-home"></use>
+          <use xlink:href="icons/sprite.svg#icon-home1"></use>
         </svg>
         <p>534 m<sup>2</sup></p>
       </div>
       <div class="home__price">
         <svg class="home__like">
-          <use xlink:href="icons/sprite2.svg#icon-key"></use>
+          <use xlink:href="icons/sprite.svg#icon-key"></use>
         </svg>
         <p>$4,200,000</p>
       </div>
@@ -69,30 +69,30 @@
     <div class="home">
       <img src="img/h3.jpg" alt="Home" class="home__img" />
       <svg class="home__like">
-        <use xlink:href="icons/sprite2.svg#icon-heart"></use>
+        <use xlink:href="icons/sprite.svg#icon-heart"></use>
       </svg>
       <h5 class="home__name">Gang Gang House</h5>
       <div class="home__location">
         <svg class="home__like">
-          <use xlink:href="icons/sprite2.svg#icon-location-pin"></use>
+          <use xlink:href="icons/sprite.svg#icon-location-pin"></use>
         </svg>
         <p>Mount Pleasant</p>
       </div>
       <div class="home__rooms">
         <svg class="home__like">
-          <use xlink:href="icons/sprite2.svg#icon-user"></use>
+          <use xlink:href="icons/sprite.svg#icon-user"></use>
         </svg>
         <p>18 Rooms</p>
       </div>
       <div class="home__area">
         <svg class="home__like">
-          <use xlink:href="icons/sprite2.svg#icon-home"></use>
+          <use xlink:href="icons/sprite.svg#icon-home1"></use>
         </svg>
         <p>734 m<sup>2</sup></p>
       </div>
       <div class="home__price">
         <svg class="home__like">
-          <use xlink:href="icons/sprite2.svg#icon-key"></use>
+          <use xlink:href="icons/sprite.svg#icon-key"></use>
         </svg>
         <p>$8,200,000</p>
       </div>
@@ -102,30 +102,30 @@
     <div class="home">
       <img src="img/h4.jpg" alt="Home" class="home__img" />
       <svg class="home__like">
-        <use xlink:href="icons/sprite2.svg#icon-heart"></use>
+        <use xlink:href="icons/sprite.svg#icon-heart"></use>
       </svg>
       <h5 class="home__name">Beautiful House</h5>
       <div class="home__location">
         <svg class="home__like">
-          <use xlink:href="icons/sprite2.svg#icon-location-pin"></use>
+          <use xlink:href="icons/sprite.svg#icon-location-pin"></use>
         </svg>
         <p>Bulawayo</p>
       </div>
       <div class="home__rooms">
         <svg class="home__like">
-          <use xlink:href="icons/sprite2.svg#icon-user"></use>
+          <use xlink:href="icons/sprite.svg#icon-user"></use>
         </svg>
         <p>7 Rooms</p>
       </div>
       <div class="home__area">
         <svg class="home__like">
-          <use xlink:href="icons/sprite2.svg#icon-home"></use>
+          <use xlink:href="icons/sprite.svg#icon-home1"></use>
         </svg>
         <p>204 m<sup>2</sup></p>
       </div>
       <div class="home__price">
         <svg class="home__like">
-          <use xlink:href="icons/sprite2.svg#icon-key"></use>
+          <use xlink:href="icons/sprite.svg#icon-key"></use>
         </svg>
         <p>$200,000</p>
       </div>
@@ -135,30 +135,30 @@
     <div class="home">
       <img src="img/h5.jpg" alt="Home" class="home__img" />
       <svg class="home__like">
-        <use xlink:href="icons/sprite2.svg#icon-heart"></use>
+        <use xlink:href="icons/sprite.svg#icon-heart"></use>
       </svg>
       <h5 class="home__name">The House</h5>
       <div class="home__location">
         <svg class="home__like">
-          <use xlink:href="icons/sprite2.svg#icon-location-pin"></use>
+          <use xlink:href="icons/sprite.svg#icon-location-pin"></use>
         </svg>
         <p>AspinDale</p>
       </div>
       <div class="home__rooms">
         <svg class="home__like">
-          <use xlink:href="icons/sprite2.svg#icon-user"></use>
+          <use xlink:href="icons/sprite.svg#icon-user"></use>
         </svg>
         <p>8 Rooms</p>
       </div>
       <div class="home__area">
         <svg class="home__like">
-          <use xlink:href="icons/sprite2.svg#icon-home"></use>
+          <use xlink:href="icons/sprite.svg#icon-home1"></use>
         </svg>
         <p>200 m<sup>2</sup></p>
       </div>
       <div class="home__price">
         <svg class="home__like">
-          <use xlink:href="icons/sprite2.svg#icon-key"></use>
+          <use xlink:href="icons/sprite.svg#icon-key"></use>
         </svg>
         <p>$50,000</p>
       </div>
@@ -168,30 +168,30 @@
     <div class="home">
       <img src="img/h6.jpg" alt="Home" class="home__img" />
       <svg class="home__like">
-        <use xlink:href="icons/sprite2.svg#icon-heart"></use>
+        <use xlink:href="icons/sprite.svg#icon-heart"></use>
       </svg>
       <h5 class="home__name">Beautiful Family House</h5>
       <div class="home__location">
         <svg class="home__like">
-          <use xlink:href="icons/sprite2.svg#icon-location-pin"></use>
+          <use xlink:href="icons/sprite.svg#icon-location-pin"></use>
         </svg>
         <p>Kwekwe</p>
       </div>
       <div class="home__rooms">
         <svg class="home__like">
-          <use xlink:href="icons/sprite2.svg#icon-user"></use>
+          <use xlink:href="icons/sprite.svg#icon-user"></use>
         </svg>
         <p>9 Rooms</p>
       </div>
       <div class="home__area">
         <svg class="home__like">
-          <use xlink:href="icons/sprite2.svg#icon-home"></use>
+          <use xlink:href="icons/sprite.svg#icon-home1"></use>
         </svg>
         <p>134 m<sup>2</sup></p>
       </div>
       <div class="home__price">
         <svg class="home__like">
-          <use xlink:href="icons/sprite2.svg#icon-key"></use>
+          <use xlink:href="icons/sprite.svg#icon-key"></use>
         </svg>
         <p>$20,000</p>
       </div>
