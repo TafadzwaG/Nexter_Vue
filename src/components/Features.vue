@@ -17,8 +17,8 @@
       </svg>
       <h4 class="heading-4 heading-4--dark">Play With Spotify</h4>
       <p class="feature__text">
-        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Labore, ullam.Lorem7
-        Lorem ipsum dolor sit amet consectetur adipisicing.
+        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla exercitationem
+        deserunt explicabo iure mollitia placeat id quaerat?
       </p>
     </div>
 
@@ -28,9 +28,9 @@
       </svg>
       <h4 class="heading-4 heading-4--dark">Discover The World</h4>
       <p class="feature__text">
-        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Labore, ullam. Lorem
-        ipsum dolor sit amet consectetur adipisicing elit. Dolore sint commodi nihil
-        mollitia et cumque dicta deleniti nobis, harum voluptates.
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident repellat
+        reiciendis debitis, voluptatem fugiat tenetur odit autem saepe esse nostrum illo
+        accusamus!
       </p>
     </div>
 
@@ -40,8 +40,8 @@
       </svg>
       <h4 class="heading-4 heading-4--dark">Send To The World</h4>
       <p class="feature__text">
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi et autem
-        consequuntur soluta unde nisi laborum cupiditate?
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus iusto sunt
+        fugit reprehenderit autem a tempora, provident error quaerat.
       </p>
     </div>
 

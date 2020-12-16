@@ -5,9 +5,9 @@
       &ldquo;The best decison of our lives&rdquo;
     </h2>
     <p class="story__text">
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit neque aliquam
-      distinctio provident. Voluptatum blanditiis tempora sint dicta doloremque rem odio
-      accusamus nisi illum eos.
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit
+      neque aliquam distinctio provident. Voluptatum blanditiis tempora sint
+      dicta doloremque rem odio accusamus nisi illum eos.
     </p>
     <button class="btn">Find Your Own Home</button>
   </div>

@@ -1,5 +1,19 @@
 <template>
   <div class="realtors">
+    <div class="realtors__button">
+      <router-link to="/signin">
+        <button class="btn auth_button">Login</button>
+      </router-link>
+
+      <button class="btn auth_button" v-if="isLoggedIn" @click.prevent="userLogOut">
+        Logout
+      </button>
+
+      <router-link v-else to="/signup">
+        <button class="btn auth_button">Signup</button>
+      </router-link>
+    </div>
+
     <h3 class="heading-3">Top 3 Realtors</h3>
     <div class="realtors__list">
       <img src="img/r1.jpg" alt="r1" class="realtors__img" />
@@ -23,7 +37,19 @@
   </div>
 </template>
 <script>
-export default {};
+export default {
+  computed: {
+    isLoggedIn() {
+      return this.$store.getters.isAuthenticated;
+    },
+  },
+
+  methods: {
+    userLogOut() {
+      this.$store.dispatch("logout");
+    },
+  },
+};
 </script>
 
 <style lang="scss" scoped>
@@ -37,6 +63,13 @@ export default {};
   justify-content: center;
   grid-row-gap: 2rem;
   justify-items: center;
+
+  &__button {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    justify-content: start;
+    grid-column-gap: 1rem;
+  }
 
   &__list {
     display: grid;

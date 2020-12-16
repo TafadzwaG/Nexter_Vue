@@ -1,18 +1,28 @@
 <template>
   <footer class="footer">
     <ul class="nav">
-      <li class="nav__item"><a href="#" class="nav__link"> Find your dream home</a></li>
-      <li class="nav__item"><a href="#" class="nav__link"> Request Proposal</a></li>
-      <li class="nav__item"><a href="#" class="nav__link"> Download home planner</a></li>
-      <li class="nav__item"><a href="#" class="nav__link"> Submit Your property</a></li>
-      <li class="nav__item"><a href="#" class="nav__link"> Come work with us</a></li>
+      <li class="nav__item">
+        <a href="#" class="nav__link"> Find your dream home</a>
+      </li>
+      <li class="nav__item">
+        <a href="#" class="nav__link"> Request Proposal</a>
+      </li>
+      <li class="nav__item">
+        <a href="#" class="nav__link"> Download home planner</a>
+      </li>
+      <li class="nav__item">
+        <a href="#" class="nav__link"> Submit Your property</a>
+      </li>
+      <li class="nav__item">
+        <a href="#" class="nav__link"> Come work with us</a>
+      </li>
       <li class="nav__item"><a href="#" class="nav__link"> Contact us</a></li>
     </ul>
 
     <p class="copyright">
-      &copy; Copyright 2020 Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quae
-      ipsum facere dolores odio sint eos praesentium minima unde quam? Qui quae quasi nemo
-      consectetur ipsa.
+      &copy; Copyright 2020 Lorem ipsum dolor sit, amet consectetur adipisicing
+      elit. Quae ipsum facere dolores odio sint eos praesentium minima unde
+      quam? Qui quae quasi nemo consectetur ipsa.
     </p>
   </footer>
 </template>
